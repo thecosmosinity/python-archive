@@ -8,3 +8,6 @@ If there is no requirements mentioned, and it throws an error, do pip install (a
 
 For streamlit apps:
   Run by going to CMD, Going in the directory of the Streamlit file and running "streamlit run app.py" or "streamlit run homepage.py" for the multipage ones.
+
+Compiled Apps:
+  Go into the "compiled" folder then go into "dist", there run the .exe file...
